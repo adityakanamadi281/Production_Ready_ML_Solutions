@@ -1,3 +1,4 @@
 # Production_Ready_ML_Solutions
 
-<img width="2729" height="3538" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/bb1ce5e8-df56-45d9-ada0-50d142adbaec" />
+<img width="3393" height="4937" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/26f89581-4db8-4628-be62-fdbfc812ab9f" />
+
